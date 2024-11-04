@@ -1,0 +1,8 @@
+var name = ("false")
+console.log(name)
+var IsEnabled = false
+console.log(IsEnabled)
+//lista com array - index
+var names = ["Najon" , "Sercheetos" , "Ludmila"];
+console.log(names)
+console.log(names[2])
